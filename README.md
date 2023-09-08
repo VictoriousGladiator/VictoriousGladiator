@@ -1,16 +1,22 @@
-### Hi there 👋
+<!-- Heading -->
+<h1 align="center">
+  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
+    width = 30px> 
+  Hi there! 
+</h1>
+<h2 align="center">
+  I'm Vincent Degenhart
+</h2>
 
-<!--
-**VictoriousGladiator/VictoriousGladiator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- About section -->
+--- 
+- 👨‍🎓 Studying Mathematics (B.Sc.) at the [University of Bonn](https://www.uni-bonn.de/en/university/university) - 15th worlwide, 1st in Germany for Mathematics (GRAS 22)
 
-Here are some ideas to get you started:
+- 🕙 In the past I was a Student of Computer Science with a Minor in Cybersecurity @ IBM (Graduated Sept 23)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m interested into Research (CS, Neuro Science, AI, Math, Finance), Coding, Building Communities, Reading, History and Sport
+
+- 📫 How to reach me: [Email](mailto:s18vdege@uni-bonn.de), [LinkedIn](https://www.linkedin.com/in/vincentdegenhart)
+
+<p align="center"> Looking forward to collaborate with you! </p>
+

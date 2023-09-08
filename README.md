@@ -1,12 +1,21 @@
 <!-- Heading -->
-<h1 align="center">
-  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
-    width = 30px> 
-  Hi there! 
-</h1>
-<h2 align="center">
-  I'm Vincent Degenhart
-</h2>
+<div align="center">
+  <p>
+  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+    <strong>
+      Hi there!
+    </strong>
+  </p>
+</div>
+
+<div align="center">
+  <p>
+    <strong> 
+      I'm Vincent Degenhart
+    </strong>
+  </p>
+</div>
+
 
 <!-- About section -->
 --- 

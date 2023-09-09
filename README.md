@@ -16,7 +16,7 @@
 
 - 🔭 I’m interested into Research (CS, Neuro Science, AI, Math, Finance), Coding, Building Communities, Reading, History and Sport
 
-- 📫 How to reach me: [Email](mailto:s18vdege@uni-bonn.de), [LinkedIn](https://www.linkedin.com/in/vincentdegenhart)
+- 📫 How to reach me: [Email](mailto:s18vdege@uni-bonn.de?subject=Github%20%3C%20YOUR%20SUBJECT%3E%20), [LinkedIn](https://www.linkedin.com/in/vincentdegenhart)
 
 <p align="center"> Looking forward to collaborate with you! </p>
 

@@ -8,6 +8,12 @@
   </p>
 </div>
 
+<div align="center">
+  <h6>
+    [ˈvɪnsənt ˈdɛɡənˌhɑrt]
+  </h6>
+</div>
+
 <!-- About section -->
 --- 
 - 👨‍🎓 Studying Mathematics (B.Sc.) at the [University of Bonn](https://www.uni-bonn.de/en/university/university) - 15th worlwide, 1st in Germany for Mathematics (GRAS 22)

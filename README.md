@@ -20,7 +20,7 @@
 
 - 🕙 In the past I was a Student of Computer Science with a Minor in Cybersecurity @ IBM (Graduated Sept 23)
 
-- 🔭 I’m interested into Research (CS, Neuro Science, AI, Math, Finance), Coding, Building Communities, Reading, History and Sport
+- 🔭 I’m interested into Research (Natural/Health/Computational Sciences), Coding, Building Communities, Reading, History and Sport
 
 - 📫 How to reach me: [Email](mailto:s18vdege@uni-bonn.de?subject=Github%20%3C%20YOUR%20SUBJECT%3E%20), [LinkedIn](https://www.linkedin.com/in/vincentdegenhart)
 
